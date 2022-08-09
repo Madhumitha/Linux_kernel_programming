@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/06_pwm_driver/pwm_driver.mod := { echo  /home/admin/Linux_kernel_programming/06_pwm_driver/pwm_driver.o;  echo; } > /home/admin/Linux_kernel_programming/06_pwm_driver/pwm_driver.mod

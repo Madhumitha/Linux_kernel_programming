@@ -1,0 +1,2 @@
+/home/admin/Linux_kernel_programming/3_read_write/read_write.o
+

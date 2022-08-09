@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/10_spi_bme280/modules.order := {   echo /home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.ko; :; } | awk '!x[$$0]++' - > /home/admin/Linux_kernel_programming/10_spi_bme280/modules.order

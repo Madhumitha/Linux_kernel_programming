@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.mod := { echo  /home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.o;  echo; } > /home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.mod

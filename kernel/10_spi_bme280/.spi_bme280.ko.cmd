@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.ko /home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.o /home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.mod.o;  true

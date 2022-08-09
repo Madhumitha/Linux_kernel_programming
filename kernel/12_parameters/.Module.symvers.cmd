@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/12_parameters/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin/Linux_kernel_programming/12_parameters/modules.order | scripts/mod/modpost -m -a  -o /home/admin/Linux_kernel_programming/12_parameters/Module.symvers -e -i Module.symvers   -T -

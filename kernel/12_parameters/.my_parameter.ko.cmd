@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/12_parameters/my_parameter.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/12_parameters/my_parameter.ko /home/admin/Linux_kernel_programming/12_parameters/my_parameter.o /home/admin/Linux_kernel_programming/12_parameters/my_parameter.mod.o;  true

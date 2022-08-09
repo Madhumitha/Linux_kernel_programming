@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/15_Sending_Signals/modules.order := {   echo /home/admin/Linux_kernel_programming/15_Sending_Signals/gpio_irq_signal.ko; :; } | awk '!x[$$0]++' - > /home/admin/Linux_kernel_programming/15_Sending_Signals/modules.order

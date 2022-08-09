@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.ko /home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.o /home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.ko /home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.o /home/admin/Linux_kernel_programming/11_gpio_irq/gpio_irq.mod.o;  true

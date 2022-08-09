@@ -1,0 +1,2 @@
+/home/admin/Linux_kernel_programming/dev_nr/dev_nr.o
+

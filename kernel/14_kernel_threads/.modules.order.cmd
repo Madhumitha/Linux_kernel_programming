@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/14_kernel_threads/modules.order := {   echo /home/admin/Linux_kernel_programming/14_kernel_threads/kthread.ko; :; } | awk '!x[$$0]++' - > /home/admin/Linux_kernel_programming/14_kernel_threads/modules.order

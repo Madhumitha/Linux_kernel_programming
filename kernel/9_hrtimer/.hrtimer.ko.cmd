@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/9_hrtimer/hrtimer.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/9_hrtimer/hrtimer.ko /home/admin/Linux_kernel_programming/9_hrtimer/hrtimer.o /home/admin/Linux_kernel_programming/9_hrtimer/hrtimer.mod.o;  true

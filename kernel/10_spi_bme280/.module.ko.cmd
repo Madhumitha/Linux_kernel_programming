@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/Hello/module.ko := ld -r -EL  -maarch64elf --build-id=sha1  -T scripts/module.lds -o /home/admin/Linux_kernel_programming/Hello/module.ko /home/admin/Linux_kernel_programming/Hello/module.o /home/admin/Linux_kernel_programming/Hello/module.mod.o;  true

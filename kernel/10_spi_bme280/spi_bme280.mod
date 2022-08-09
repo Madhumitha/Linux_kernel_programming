@@ -1,0 +1,2 @@
+/home/admin/Linux_kernel_programming/10_spi_bme280/spi_bme280.o
+

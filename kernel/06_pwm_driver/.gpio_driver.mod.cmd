@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/4_gpio_driver/gpio_driver.mod := { echo  /home/admin/Linux_kernel_programming/4_gpio_driver/gpio_driver.o;  echo; } > /home/admin/Linux_kernel_programming/4_gpio_driver/gpio_driver.mod

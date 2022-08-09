@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.mod := { echo  /home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.o;  echo; } > /home/admin/Linux_kernel_programming/13_ioctl/ioctl_example.mod

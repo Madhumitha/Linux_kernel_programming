@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/11_gpio_irq/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin/Linux_kernel_programming/11_gpio_irq/modules.order | scripts/mod/modpost -m -a  -o /home/admin/Linux_kernel_programming/11_gpio_irq/Module.symvers -e -i Module.symvers   -T -

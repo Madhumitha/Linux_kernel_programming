@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/Hello/modules.order := {   echo /home/admin/Linux_kernel_programming/Hello/module.ko; :; } | awk '!x[$$0]++' - > /home/admin/Linux_kernel_programming/Hello/modules.order

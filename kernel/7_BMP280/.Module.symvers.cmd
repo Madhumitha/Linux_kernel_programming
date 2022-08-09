@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/7_BMP280/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin/Linux_kernel_programming/7_BMP280/modules.order | scripts/mod/modpost -m -a  -o /home/admin/Linux_kernel_programming/7_BMP280/Module.symvers -e -i Module.symvers   -T -

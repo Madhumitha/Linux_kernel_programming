@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/05_lcd_driver/modules.order := {   echo /home/admin/Linux_kernel_programming/05_lcd_driver/lcd_driver.ko; :; } | awk '!x[$$0]++' - > /home/admin/Linux_kernel_programming/05_lcd_driver/modules.order

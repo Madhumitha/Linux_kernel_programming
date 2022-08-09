@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/15_Sending_Signals/Module.symvers := sed 's/\.ko$$/\.o/' /home/admin/Linux_kernel_programming/15_Sending_Signals/modules.order | scripts/mod/modpost -m -a  -o /home/admin/Linux_kernel_programming/15_Sending_Signals/Module.symvers -e -i Module.symvers   -T -

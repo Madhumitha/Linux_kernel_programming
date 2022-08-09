@@ -1,0 +1,1 @@
+cmd_/home/admin/Linux_kernel_programming/3_read_write/read_write.mod := { echo  /home/admin/Linux_kernel_programming/3_read_write/read_write.o;  echo; } > /home/admin/Linux_kernel_programming/3_read_write/read_write.mod
